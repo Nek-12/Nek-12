@@ -1,4 +1,4 @@
-## `Greetings, stranger! My name is Nikita (aka Nek.12 )`
+## Greetings, stranger! My name is Nikita (aka Nek.12 )
 
 ### I am:
 
@@ -7,21 +7,16 @@
 - 💻 A geek
 - 🧠 Absolutely obsessed with self-development and programming 🧠
 
- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nek-12&label=Profile%20views&color=0e75b6&style=flat" alt="nek-12" />
-  </p>
-  <p align="center" href="https://wakatime.com/Nek_12">
-    <img src="https://wakatime.com/badge/user/de537636-690a-4aea-9c18-0a1f62ff78a6.svg" />
-  </p>
-
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nek-12" alt="nek-12"/>
-    </a>
+ <a>
+    <img src="https://komarev.com/ghpvc/?username=nek-12&label=Profile%20views&color=0e75b6&style=flat" alt="nek-12" />
+  </a>
+  <a href="https://wakatime.com/Nek_12">
+    <img src="https://wakatime.com/badge/user/de537636-690a-4aea-9c18-0a1f62ff78a6.svg" />
+  </a>
 </p>
 
-  <h3 align="center">Get in touch</h3>
-
+<h3 align="center">Get in touch</h3>
 
 <p align="center" href="mailto:endernek@yandex.ru">
   <a href="mailto:endernek@yandex.ru" target="_blank">
@@ -58,57 +53,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-
-<p align="center">
-  <a href="https://developer.android.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
 <table style="width: 100%;">
   <tr style="border-style:hidden;" >
     <td>
@@ -135,11 +79,13 @@
   </tr>
 </table>
 
-![](https://activity-graph.herokuapp.com/graph?username=Nek-12&theme=github&hide_border=true&custom_title=Contribution%20Graph)
+![](https://activity-graph.herokuapp.com/graph?username=Nek-12&theme=github&hide_border=true&custom_title=Contribution%20Graph&bg_color=1A1B27)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nek-12&theme=tokyonight&no-frame=true" alt="nek-12"/>
+    </a>
+</p>
 
 <details>
   <summary>Credits for these awesome widgets</summary>
