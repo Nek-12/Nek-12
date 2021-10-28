@@ -20,15 +20,6 @@
     </a>
   </p>
 
-### Connect with me:
-
-<img
-        src="icon-android.svg"
-        alt="android"
-        width="40"
-        height="40" />
-
-
   <h3 align="left">Languages and Tools:</h3>
 
   <p align="center">
@@ -88,7 +79,7 @@
         />
       </td>
       <td>
-        <img
+        <img style="width: 100%; height: 100%;"
          src="https://github-readme-streak-stats.herokuapp.com/?user=nek-12&theme=tokyonight&border_radius=16" />
       </td>
     </tr>
