@@ -2,10 +2,10 @@
 
 ### I am:
 
-- 🧑‍💻 An `Android` and `Python` developer
+- 🧑‍💻 A Mobile developer (Android / KMM)
 - 🎓 A student
 - 💻 A geek
-- 🧠 Absolutely obsessed with self-development and programming 🧠
+- 🧠 Absolutely obsessed with self-improvement and programming
 
 <p align="center">
  <a>
