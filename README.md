@@ -17,8 +17,8 @@
 
 <h3 align="center">Get in touch</h3>
 
-<p align="center" href="mailto:endernek@yandex.ru">
-  <a href="mailto:endernek@yandex.ru" target="_blank">
+<p align="center" href="mailto:nikita@respawn.pro">
+  <a href="mailto:nikita@respawn.pro" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Nek-12/Nek-12/master/resources/icon_email.svg"
       alt="email contact icon"
@@ -26,7 +26,7 @@
       height="40"
     />
   </a>
-  <a href="https://t.me/nek_12_secondary" target="_blank">
+  <a href="https://t.me/nikita_vaizin" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Nek-12/Nek-12/master/resources/icon_telegram_2.svg"
       alt="telegram contact icon "
