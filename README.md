@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nek_12&langs_count=6&layout=compact&theme=tokyonight" alt="WakaTime Top Languages" />
+  <img src="https://wakatime.com/share/@Nek_12/92f94eb7-13a2-4332-96a7-d78de4165c66.svg" alt="WakaTime Top Languages" />
 </p>
