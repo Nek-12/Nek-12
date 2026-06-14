@@ -2,9 +2,9 @@
 
 ### I am:
 - 🧑‍💻 An AI and Mobile Development Expert (Android, Kotlin Multiplatform, Compose)
-- 🚀 A consultant helping teams optimize apps and ship faster
+- 🚀 A Product Engineer developing AI agents and mobile apps
 - ✍️ Author of [nek12.dev](https://nek12.dev), writing about development, architecture, and AI
-- 🏗️ Creator of [Respawn](https://respawn.pro) and [FlowMVI](https://opensource.respawn.pro/FlowMVI)
+- 🏗️ Creator of [Kent](https://kent.sh), [FlowMVI](https://opensource.respawn.pro/FlowMVI), and [Respawn](https://respawn.pro)
 
 <p align="center">
   <a href="https://github.com/Nek-12">
